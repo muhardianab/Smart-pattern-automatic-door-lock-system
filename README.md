@@ -1,6 +1,6 @@
 # Automatic Door Lock System Using Smart Secret Pattern Push Button 
 
-This project was created in December 2018 as 5th semester post test assignment at our university which is guided by our lecturer in the Embedded System Workshop course
+This project was created in December 2018 as 5th semester post test assignment at university which is guided by lecturer in the Embedded System Workshop course
 
 This device is an automatic door lock system with smart pattern push button as the key. Here are the component used on this project:
 
